@@ -1,6 +1,4 @@
-# VerbMeister-support
-Support Page for VerbMeister
-
+# index.html
 <!DOCTYPE html>
 <html>
 <head>
